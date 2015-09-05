@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 aaakokokokijoi•ÏX‚µ‚½‚ætest2margi gh a
 
+=======
+aaakokokokijoi•ÏX‚µ‚½‚ætest2margi gh a g
+>>>>>>> e27380b549ff9f6a64ba407ae176d6c188898912
